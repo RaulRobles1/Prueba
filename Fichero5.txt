@@ -1,1 +1,10 @@
-Esto es un fichero 5
+Linea 1
+linea 2
+linea 3
+añador bugfixing
+seguimos con bugfixinfg
+bugfixing2
+linea 4
+linea definitiva
+solucionando problemas
+TODO RESUELTO
